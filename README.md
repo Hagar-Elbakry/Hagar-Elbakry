@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hagar-Elbakry&show_icons=true&locale=en&layout=compact" alt="Hagar-Elbakry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hagar-Elbakry&show_icons=true&locale=en" alt="Hagar-Elbakry" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hagar-Elbakry&" alt="Hagar-Elbakry" /></p>
