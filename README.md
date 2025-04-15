@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/4hagarelbakry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4hagarelbakry" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/hagar-elbakry-27354533a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="HagarElbakry" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/hagar-elbakry-27354533a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg" alt="HagarElbakry" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@HagarElbakry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="HagarElbakry" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Hagar_Elbakry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Hagar_Elbakry" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Hagar-Elbakry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Hagar-Elbakry" height="30" width="40" /></a>
