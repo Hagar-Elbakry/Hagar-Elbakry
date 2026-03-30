@@ -44,7 +44,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Backend Developer**. Graduated from the **[Faculty of Computers & Information Systems, Mansoura University](https://www.mans.edu.eg/en/)** with a degree in Computer Science.
+I am a **Backend Developer**. Graduated from the **[Faculty of Computer & Information Systems, Mansoura University](https://www.mans.edu.eg/en/)** with a degree in Computer Science.
 
 >  Building ideas into practical, clean, maintainable soultions.
 
