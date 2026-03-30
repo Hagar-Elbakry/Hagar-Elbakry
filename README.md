@@ -10,6 +10,16 @@
 
 
 <br/>
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Hagar-Elbakry&label=Profile%20views&color=0e75b6&style=flat" alt="Hagar-Elbakry" />
+</div>
+<div align="center">
+ <img src="https://img.shields.io/badge/Age-22-blue" />
+ <img src="https://img.shields.io/badge/Lives-Egypt%20-success" />
+<img src="https://img.shields.io/badge/Languages-Arabic%20%26%20English-brightgreen" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="mailto:hagarelbakry12@gmail.com">
@@ -32,11 +42,6 @@
   </a>
 </div>
 
-  <br/>
-  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Hagar-Elbakry&label=Profile%20views&color=0e75b6&style=flat" alt="Hagar-Elbakry" />
-</div>
 
 <br/>
 
@@ -76,6 +81,146 @@ My journey started with the basics of **Computer Science, Problem Solving** and 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
+### IDEs
+<img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Hagar-Elbakry">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hagar-Elbakry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hagar-Elbakry&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hagar-Elbakry/Hagar-Elbakry/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hagar-Elbakry/Hagar-Elbakry/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 
+
+<!--## 📦 My Repositories
+	
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+	<td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/Strees_Testing">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/CP-Templates">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/Some-Linux-Commands">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/Shorten-Link">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/7oSkaaa">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/VS-Code-for-CP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/Sorting-Algorithms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/board-link-generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/PhoneBook-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/CP-Calendar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>-->
