@@ -40,8 +40,6 @@
 
 I am a **Backend Developer**. Graduated from the **[Faculty of Computer & Information Systems, Mansoura University](https://www.mans.edu.eg/en/)** with a degree in Computer Science.
 
->  Building ideas into practical, clean, maintainable soultions.
-
 My journey started with the basics of **Computer Science, Problem Solving** and exploring the **fundamentals of backend development**, learning how to think like a **Software Engineer**, plan systems carefully and build **functional projects** to apply what I learned. I'm currently learning **advanced backend concepts** and **best practices** to improve my systems even further.
 
 ---
